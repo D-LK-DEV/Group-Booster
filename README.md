@@ -1,7 +1,7 @@
 # 🚀 Group Booster — Telegram Power Booster Bot  
 **Developed by DLK DEVELOPER**
 
-Group Booster is a powerful Telegram bot designed to grow your group rapidly with advanced force-add control, welcome systems, invite tracking, backup/restore tools, and complete admin-level automation.
+Group Booster is a powerful Telegram bot
 
 > 📌 **Bot Developer:** [DLK DEVELOPER](https://t.me/DLKDevelopers)  
 > 📌 **GitHub:** https://github.com/TEAM-DLK  
