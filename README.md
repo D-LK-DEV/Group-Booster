@@ -1,6 +1,3 @@
-# 🚀 Group Booster — Telegram Power Booster Bot  
-**Developed by DLK DEVELOPER**
-
 Group Booster is a powerful Telegram bot
 
 > 📌 **Bot Developer:** [DLK DEVELOPER](https://t.me/DLKDevelopers)  
