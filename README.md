@@ -10,41 +10,6 @@ Group Booster is a powerful Telegram bot
 
 ---
 
-## ⚡ Features
-
-### 🔹 **Force Add System (Auto Restrict)**
-- Set required members to add using **!max** command  
-- Custom add-count for specific users  
-- Old/New member targeting  
-- Auto-delete messages of users who haven’t completed force-add  
-- Customizable message (`!text`)
-
-### 🔹 **Invite Tracking System**
-- Tracks who invited whom  
-- Full logs stored in DLK Backup Engine
-- Top inviters:
-  - `!top` – All time  
-  - `!top24` – Last 24 hours  
-  - `!top7` – Last 7 days  
-
-### 🔹 **Welcome System**
-- Custom welcome text  
-- Media welcome (photo/video/GIF)  
-- Custom inline buttons  
-- Auto-delete welcome message (timer)  
-- Supports placeholders:
-
-### ⚙ Admin Commands
-- !max [num]         – Set global force-add
-- !max               – Adjust user invites via inline buttons
-- !max [reply]       – Set custom add count for that user
-- !free              – Free a user
-- !unfree            – Remove free status
-- !text [msg]        – Set custom force-add message
-- !top               – Top inviters
-- !top24             – Top inviters (24 hours)
-- !top7              – Top inviters (7 days)
-- !welcome           – Manage welcome system
 
 
 
