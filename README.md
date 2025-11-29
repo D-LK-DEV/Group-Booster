@@ -21,7 +21,7 @@ Group Booster is a powerful Telegram bot designed to grow your group rapidly wit
 
 ### 🔹 **Invite Tracking System**
 - Tracks who invited whom  
-- Full logs stored in MongoDB  
+- Full logs stored in DLK Backup Engine
 - Top inviters:
   - `!top` – All time  
   - `!top24` – Last 24 hours  
