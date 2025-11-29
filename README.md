@@ -34,6 +34,20 @@ Group Booster is a powerful Telegram bot designed to grow your group rapidly wit
 - Auto-delete welcome message (timer)  
 - Supports placeholders:
 
+⚙ Admin Commands
+!max [num]         – Set global force-add
+!max               – Adjust user invites via inline buttons
+!max [reply]       – Set custom add count for that user
+!free              – Free a user
+!unfree            – Remove free status
+!text [msg]        – Set custom force-add message
+!top               – Top inviters
+!top24             – Top inviters (24 hours)
+!top7              – Top inviters (7 days)
+!welcome           – Manage welcome system
+
+
+
 
 ❤️ Developer
 
